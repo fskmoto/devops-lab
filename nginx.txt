@@ -1,2 +1,4 @@
 # Labiratorio 2
 nginx
+# Laboratorio 3
+nginx 2
