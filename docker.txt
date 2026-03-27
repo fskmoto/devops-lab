@@ -1,2 +1,4 @@
 # Arquivo de laboratorio
 Laboratorio parte 1
+# Alteração 2
+Praticando branch e merge
