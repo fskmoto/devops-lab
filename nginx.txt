@@ -1,0 +1,2 @@
+# Labiratorio 2
+nginx
