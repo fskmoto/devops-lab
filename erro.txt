@@ -1,4 +1,2 @@
 <<<<<<< HEAD
 # Simulando erro real corrigido
-
->>>>>>> 56f9cba (corrige erro no arquivo)
