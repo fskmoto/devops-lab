@@ -2,3 +2,5 @@
 Laboratorio parte 1
 # Alteração 2
 Praticando branch e merge
+# Alteração 3
+Gerar conflito
